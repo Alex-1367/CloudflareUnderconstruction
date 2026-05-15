@@ -1,0 +1,8 @@
+{
+  "name": "prus-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "wrangler deploy --name prus-frontend",
+    "dev": "wrangler dev --name prus-frontend"
+  }
+}
